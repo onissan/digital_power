@@ -1,0 +1,27 @@
+Singular deck expression: "(d_buck)/(200*10^3)"=1.#INF
+Singular deck expression: "1/(200*10^3)"=1.#INF
+Circuit: * C:\Users\Public\Documents\Altium\Projects\digital_power\4_sw_converter.asc
+
+WARNING: Less than two connections to node INA_H_BOOST.  This node is used by V6.
+WARNING: Less than two connections to node INA_L_BOOST.  This node is used by V7.
+WARNING: Less than two connections to node INB_H_BOOST.  This node is used by V8.
+WARNING: Less than two connections to node INB_L_BOOST.  This node is used by V9.
+Direct Newton iteration for .op point succeeded.
+
+Date: Sun Nov 03 01:11:37 2019
+Total elapsed time: 0.177 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 2103
+traniter = 2098
+tranpoints = 1050
+accept = 1050
+rejected = 0
+matrix size = 22
+fillins = 0
+solver = Normal
+Matrix Compiler1: 684 bytes object code size  0.2/0.2/[0.1]
+Matrix Compiler2: 1.36 KB object code size  0.2/0.2/[0.1]
+

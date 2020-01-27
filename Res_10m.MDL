@@ -1,0 +1,10 @@
+*
+* This spice model was created using the Altium Spice Model Wizard
+* Created: 10:26 PM on 17 November, 2019
+*
+* Description: RIn Input Inv RES 10m
+* Component Name: Res_10m
+*
+.MODEL Res_10m R
++(
++)

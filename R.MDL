@@ -1,0 +1,14 @@
+*
+* This spice model was created using the Altium Spice Model Wizard
+* Created: 9:36 PM on 17 November, 2019
+*
+* Component Name: R
+*
+.MODEL R R
++(
++         TC1 = 15
++)
+*
+* Spice model R has been assigned the following parameters:
+*
+*        TC1: First order temperature coefficient...(Unit: Ohm/°C)

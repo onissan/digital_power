@@ -1,0 +1,22 @@
+Circuit: * C:\Users\Public\Documents\Altium\Projects\digital_power\4_sw_converter_buck.asc
+
+Direct Newton iteration for .op point succeeded.
+Heightened Def Con from 0.037105 to 0.037105
+
+Date: Sun Nov 03 01:47:27 2019
+Total elapsed time: 19.754 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 4316661
+traniter = 4316657
+tranpoints = 1429413
+accept = 1182745
+rejected = 246669
+matrix size = 14
+fillins = 0
+solver = Normal
+Matrix Compiler1: 428 bytes object code size  0.3/0.2/[0.2]
+Matrix Compiler2: 888 bytes object code size  0.2/0.3/[0.2]
+
