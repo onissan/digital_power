@@ -1,0 +1,11 @@
+* C:\Users\Public\Documents\Altium\Projects\digital_power\Simulation\LT6992-1.asc
+R1 N003 0 249k
+V1 N002 0 3.3
+V2 N001 0 PULSE(0 1 5m 1m 1m 1m)
+XU1 N001 0 N003 0 N002 PWMout LTC6992-1
+R4 PWMout 0 10k
+.tran 10m startup
+* 1MHz, 100% to 0% Duty Cycle\nSwept Pulse Width Modulated Output\nStartup Modeled
+.lib LTC6992-1.sub
+.backanno
+.end
