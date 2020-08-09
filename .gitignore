@@ -2,4 +2,6 @@ History/
 __Previews/
 Project Logs for digital_power/
 Project Outputs for digital_power/
-.ipynb_checkpoints/
+*.ipynb_checkpoints/
+*.zip
+*.Cam
